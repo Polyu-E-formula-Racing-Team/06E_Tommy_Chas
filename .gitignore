@@ -1,3 +1,6 @@
 06E Boundary Box Concept/06E Packaging.STEP
 ~$*.SLD*
-*console.log
+*.log
+Parts/Scanned/Bradley_Fixed.SLDPRT
+Parts/Scanned/Chester_Fixed.SLDPRT
+Parts/Scanned/Jaden_Fixed.SLDPRT
